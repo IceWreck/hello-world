@@ -2,8 +2,7 @@
 
 The simplest python CLI tool used to demonstrate packit service functionality. It will make your day.
 
-Random Edit 2
-```
+Tewst 3 to check if selfhosted packit-service is running properly```
 $ hello world!
 Hello world!
 ```
